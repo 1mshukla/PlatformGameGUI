@@ -156,7 +156,7 @@ namespace PlatformGameGUI
             {
                 this.Close();
             }
-            //this is a comment
+            
         }
     }
 }
